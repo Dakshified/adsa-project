@@ -1,0 +1,15 @@
+------------------------------------------
+          PUNE RIDE OFFICIAL TICKET
+------------------------------------------
+Operator: sanskar
+Driver:   Nitin Shinde
+Vehicle:  Local Economy Unit
+Rating:   4.8 *
+
+Pickup:   Katraj
+Drop:     Warje
+Distance: 12 km
+Total Fare: Rs. 240 (Flat 20/KM)
+------------------------------------------
+   THANK YOU FOR USING PUNE RIDE ENGINE
+------------------------------------------
